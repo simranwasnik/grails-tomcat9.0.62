@@ -16,6 +16,7 @@
 class TomcatGrailsPlugin {
 	
 	def version = '9.0.62'
+	def version = '9.0.0.M4'
 	def grailsVersion = '2.5 > *'
 	def scopes = [excludes: 'war']
 	def title = 'Apache Tomcat plugin'
